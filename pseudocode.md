@@ -10,28 +10,40 @@ theme: none
 
 ### Super buttery and best served warm. These *fluffy* biscuits are the ***perfect base*** for a nice long weekend brunch!
 
+#### Gather These Tools:
+| Tools                |
+| -------------------  |
+| One Large Bowl       |
+| One Pastry Cutter    |
+| One Knife            |
+| One Cutting Board    |
+| One Oven             |
+| One Rimmed Baking Sheet     |
+
 #### Gather These Ingredients:
 | Dry Ingredients      | Wet Ingredients                |
 | -------------------  | ---------------                |
-| 4 Cups AP Flour      | 2 Sticks Unsalted Butter       |
+| 4 Cups AP Flour      | 2 Sticks Cold Unsalted Butter  |
 | 2 Tsp Salt           | 1.5 Cups Buttermilk            |
 | 4 TbSp Baking Powder |                                |
 | 2.5 TbSp Sugar       |                                |
 
 #### Follow these instructions if you want to be surrounded by warm biscuits:
 
-1. A
-   - this becomes an unordered list if you need it
-3. B
-4. C
-5. D
-6. E
-7. F
-8. G
-9. H
-10. I
-11. J
-12. K
+1. Start with one large (empty) bowl.
+   - let name('large (empty) bowl') = 'LB'
+3. Insert all 'dry ingredients' into the LB.
+4. 
+5. C
+6. D
+7. E
+8. F
+9. G
+10. H
+11. I
+12. J
+13. K
+       - this becomes an unordered list if you need it
 
 would an unordered list be better?
 
