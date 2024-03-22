@@ -62,8 +62,11 @@ theme: none
     - Mix with 'spatula' or hands.
 13. Repeat until 'dough' comes together.
 14. IF 'dough' becomes dry, add more 'buttermilk' beyond ingredient list until soft but not sticky.
-   - ELSE let rest 10 minutes.
-15. K
+    - ELSE let rest 10 minutes.
+15. Place 'dough' on lightly floured counter.
+16. Roll dough out using 'rolling pin'
+17. E
+
        - this becomes an unordered list if you need it
 
 would an unordered list be better?
