@@ -33,6 +33,9 @@ theme: none
 11. J
 12. K
 
+would an unordered list be better?
+
+-If dough becomes dry, add buttermilk, else roll out with rolling pin
 
 -this is how to insert images-
 ### Please enjoy a few pictures from the two countries I visited last year in 2023, Scotland and Japan (including one picture of Mount Fuji on a clear day!):
