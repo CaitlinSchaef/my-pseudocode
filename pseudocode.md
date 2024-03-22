@@ -1,21 +1,37 @@
 Main
 ---
-title: "Caitlin Schaeffer's Blog"
+title: "Caitlin Schaeffer's PseudoCode"
 permalink: /
 layout: default
-theme: jekyll-theme-minimal
+theme: none
 ---
-## Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caitlin-schaeffer-125668153) !
 
-## Week of March 11, 2024
-### What is something you wish you could do but currently do not have the coding skills to accomplish?
-#### I would really like to be better able to organize a website. Making it have a great user experience and good flow would be fantastic. I am going to practice by restructuring this blog!
+# Life's Best Biscuits
 
-### What are you struggling with?
-#### Right now I'm struggling with finding the balance amongst things, there is just a lot happening all at once with teaching, starting this program, and a general busy season of life. I keep thinking about how nice it will be in 6 months, when I will hopefully have a job and focus on that exclusively.
+### Super buttery and best served warm. These *fluffy* biscuits are the ***perfect base*** for a nice long weekend brunch!
 
-### How do you solve a problem? 
-#### I tend to really hammer at something until I understand what's happening, almost too much. 
+#### Ingredients:
+| Dry Ingredients      | Wet Ingredients                |
+| -------------------  | ---------------                |
+| 4 Cups AP Flour      | 2 Sticks Unsalted Butter       |
+| 2 Tsp Salt           | 1.5 Cups Buttermilk            |
+| 4 TbSp Baking Powder |                                |
+| 2.5 TbSp Sugar       |                                |
+
+#### Follow these instructions if you want to be surrounded by warm biscuits:
+
+1. A
+   - this becomes an unordered list if you need it
+3. B
+4. C
+5. D
+6. E
+7. F
+8. G
+9. H
+10. I
+11. J
+12. K
 
 
 -this is how to insert images-
