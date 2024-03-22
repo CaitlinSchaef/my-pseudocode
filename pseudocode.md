@@ -10,7 +10,7 @@ theme: none
 
 ### Super buttery and best served warm. These *fluffy* biscuits are the ***perfect base*** for a nice long weekend brunch!
 
-#### Ingredients:
+#### Gather These Ingredients:
 | Dry Ingredients      | Wet Ingredients                |
 | -------------------  | ---------------                |
 | 4 Cups AP Flour      | 2 Sticks Unsalted Butter       |
